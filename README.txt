@@ -17,7 +17,7 @@ Website multipage HTML + CSS sesuai studi kasus:
 - dokumentasi.html
 - video.html
 - contact.html
-- style.css
+- assets/css/style.css
 - assets/img/14. LOGO HIMATIF.png
 - assets/struktur-kominfo.png
 
